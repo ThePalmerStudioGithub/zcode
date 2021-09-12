@@ -1,0 +1,12 @@
+E:\Zcode\Zcode\Zcode\bin\x64\Debug\Zcode.exe.config
+E:\Zcode\Zcode\Zcode\bin\x64\Debug\Zcode.exe
+E:\Zcode\Zcode\Zcode\bin\x64\Debug\Zcode.pdb
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.csproj.AssemblyReference.cache
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.Form1.resources
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.Properties.Resources.resources
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.csproj.GenerateResource.cache
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.csproj.CoreCompileInputs.cache
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.exe
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.pdb
+E:\Zcode\Zcode\Zcode\obj\x64\Debug\Zcode.Command_Prompt.resources
+E:\ZCode\Zcode\Zcode\obj\x64\Debug\Zcode.About_ZCode.resources
